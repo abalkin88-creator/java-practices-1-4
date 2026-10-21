@@ -2,11 +2,14 @@ src/practice1/Arguments.java
 src/practice1/ArrayFor.java
 src/practice1/ArrayInput.java
 src/practice1/Factorial.java
+src/practice1/Final.java
 src/practice1/Harmonic.java
 src/practice2/Author.java
 src/practice2/Ball.java
+src/practice2/Final.java
 src/practice2/TestAuthor.java
 src/practice2/TestBall.java
+src/practice3/Final.java
 src/practice3/movable/Movable.java
 src/practice3/movable/MovableCircle.java
 src/practice3/movable/MovablePoint.java
@@ -17,6 +20,7 @@ src/practice3/shapes/Rectangle.java
 src/practice3/shapes/Shape.java
 src/practice3/shapes/Square.java
 src/practice3/shapes/TestShape.java
+src/practice4/Final.java
 src/practice4/atelier/Atelier.java
 src/practice4/atelier/Clothes.java
 src/practice4/atelier/MenClothing.java
