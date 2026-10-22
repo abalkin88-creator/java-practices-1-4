@@ -6,10 +6,10 @@
 
 | Практика | Весь код в одном файле | Условия и номера заданий |
 |---|---|---|
-| 1 | [Финал — практика 1](src/practice1/Final.java) | [Задания практики 1](src/practice1/README.md) |
-| 2 | [Финал — практика 2](src/practice2/Final.java) | [Задания практики 2](src/practice2/README.md) |
-| 3 | [Финал — практика 3](src/practice3/Final.java) | [Задания практики 3](src/practice3/README.md) |
-| 4 | [Финал — практика 4](src/practice4/Final.java) | [Задания практики 4](src/practice4/README.md) |
+| 1 | [Финал - практика 1](src/practice1/Final.java) | [Задания практики 1](src/practice1/README.md) |
+| 2 | [Финал - практика 2](src/practice2/Final.java) | [Задания практики 2](src/practice2/README.md) |
+| 3 | [Финал - практика 3](src/practice3/Final.java) | [Задания практики 3](src/practice3/README.md) |
+| 4 | [Финал - практика 4](src/practice4/Final.java) | [Задания практики 4](src/practice4/README.md) |
 
 Практика 4 включает все задания [раздела 4.1](src/practice4/inheritance/README.md). Для «Ателье» выберите `2` в меню четвёртой практики.
 
